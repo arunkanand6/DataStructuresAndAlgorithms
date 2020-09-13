@@ -2,13 +2,13 @@
  * ---------
  * Unstable Sorting Algorithm
  * +----------------+-----------+
- * |Best Case		    |	O(N*logN)	|
+ * |Best Case	    |O(N*logN)  |
  * |----------------|-----------|
- * |Worst Case		  |	O(N*logN)	|
+ * |Worst Case	    |O(N*logN)	|
  * |----------------|-----------|
- * |Average Case	  |	O(N*logN)	|
+ * |Average Case    |O(N*logN)	|
  * |----------------|-----------|
- * |Space			      |	O(1)		  |
+ * |Space	    |	O(1)    |
  * +----------------+-----------+
  * 
  */
