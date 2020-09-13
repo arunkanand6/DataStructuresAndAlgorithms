@@ -3,13 +3,13 @@
  * Stable Sorting Algorithm
  * Complexity:-
  * +----------------+---------+
- * |Best Case		    |	O(N)    |
+ * |Best Case	    |	O(N)  |
  * |----------------|---------|
- * |Worst Case		  |	O(N^2)  |
+ * |Worst Case	    |	O(N^2)|
  * |----------------|---------|
- * |Average Case	  |	O(N^2)	|
+ * |Average Case    |	O(N^2)|
  * |----------------|---------|
- * |Space			      |	O(1)		|
+ * |Space           |	O(1)  |
  * +----------------+---------+
  */
 
