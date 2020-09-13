@@ -3,13 +3,13 @@
  * Stable Sorting Algorithm
  * Complexity:-
  * +----------------+-----------+
- * |Best Case		    |	O(N+r)		|
+ * |Best Case	    |	O(N+r)  |
  * |----------------|-----------|
- * |Worst Case		  |	O(N+r)		|
+ * |Worst Case      |	O(N+r)	|
  * |----------------|-----------|
- * |Average Case	  |	O(N+r)		|
+ * |Average Case    |	O(N+r)	|
  * |----------------|-----------|
- * |Space			      |	O(N+r)		|
+ * |Space	    |	O(N+r)	|
  * +----------------+-----------+
  * where r = range of non negative numbers
  */
